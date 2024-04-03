@@ -9,3 +9,4 @@ This is a simple currency converter, it converts currency value from one to anot
 
 ## Things to change in HTML **After** completing the application
 - If you notice in [index.html](./index.html), you can see that all available currencies are hardcoded in the HTML directly, refactor the code so you can add them dynamically using the Javascript.
+
